@@ -1,0 +1,12 @@
+/* Style du contenu du footer */
+.footer-content {
+     text-align: center; /* Centrer le texte horizontalement */
+     background-color: #333; /* Couleur d'arrière-plan du footer */
+     color: #fff; /* Couleur du texte du footer */
+     padding: 20px; /* Espacement intérieur du contenu du footer */
+ }
+ 
+a {
+     margin: 0; /* Supprimer les marges par défaut du paragraphe */
+     font-size: 16px; /* Taille de la police du texte */
+ }
