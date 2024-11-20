@@ -2,14 +2,8 @@ const formationsData = [
   {
     title: "Master en science et technologie du métavers",
     date: "2023-2025",
-    ecole: "Université polytechnique Haut de France",
+    ecole: "Université polytechnique Haut de France - INSA Haut-de-France",
     location: "A Valenciennes",
-  },
-  {
-    title: "Licence Administration système sécurisé",
-    date: "2023-2024",
-    ecole: "Studi école en ligne",
-    location: "France",
   },
   {
     title: "Master en développement web",

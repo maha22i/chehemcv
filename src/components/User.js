@@ -11,15 +11,14 @@ const User = () => {
     <div className="user">
       <img src="./media/avatar.png" alt="" className="user__avatar" />
       <h1 className="user__name">Mohamed CHEHEM</h1>
-      <p className="user__profession">Développeur Front-end</p>
+      <p className="user__profession">Etudiant</p>
       <div className="user__infos">
         <p className="user__info">
-          <HomeIcon />
-          48 Rue Fernig, 59300, Valenciennes
+          <HomeIcon />2 Rue Chemin Vert, 59300, Aulnoy-Lez-Valenciennes
         </p>
         <p className="user__info">
           <PhoneIcon />
-          <a href="te:+33660469119">07 66 04 80 81</a>
+          <a href="te:+33660469119">07 75 84 09 62</a>
         </p>
         <p className="user__info">
           <MailIcon />
@@ -32,6 +31,10 @@ const User = () => {
         <p className="user__info">
           <LocationOnIcon />
           Lieu de naissance : Djibouti
+        </p>
+        <p className="user__info">
+          <LocationOnIcon />
+          Permis B
         </p>
       </div>
     </div>

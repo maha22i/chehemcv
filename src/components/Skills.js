@@ -8,18 +8,20 @@ const Skills = () => {
     <>
       <div className="skills">
         <h2 className="h2">Compétences</h2>
-        <Skill title="HTML" rating="5" />
-        <Skill title="CSS" rating="4" />
+        <Skill title="HTML CSS" rating="5" />
+        <Skill title="Bubble.io" rating="4" />
         <Skill title="JAVASCRIPT" rating="4" />
         <Skill title="REACT" rating="4" />
         <Skill title="NODE" rating="3" />
         <Skill title="Github" rating="4" />
         <Skill title="Wordpress" rating="4" />
-        <Skill title="Angular" rating="4" />
+        <Skill title="Unity" rating="4" />
         <Skill title="Python" rating="3" />
         <Skill title="Mongodb" rating="3" />
-        <Skill title="ReactNative" rating="3" />
-        <Skill title="JAVA" rating="4" />
+        <Skill title="C#" rating="3" />
+        <Skill title=".NET" rating="4" />
+        <Skill title="Microsoft Azure" rating="4" />
+        <Skill title="Amazon Web Services" rating="4" />
       </div>
       <div className="skills">
         <h2 className="h2">Langues</h2>
